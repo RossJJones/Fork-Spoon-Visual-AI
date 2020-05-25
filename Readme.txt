@@ -14,4 +14,4 @@ To run the camera functionality atleast one camera needs to be attached to the u
 
 To run the program, simply run Main.py
 
-Some of the directory was too big to fit into GitHub. Link to other parts on my google docs: https://drive.google.com/file/d/1JWEcn3YrDRgKgZmpdPCZpI50GrtjeVzn/view?usp=sharing
+Some of the directory was too big to fit into GitHub. Link to other parts on my google docs: https://drive.google.com/file/d/1hVwXSE3MTIqz_OCczuj07D8Y1o_p9NCm/view?usp=sharing
